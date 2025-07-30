@@ -7,3 +7,4 @@ add new line test 3
 add new line test 4
 add new line test 5
 add new line test 6
+add new line test 7
